@@ -10,6 +10,8 @@ export const RouteId = {
   DeleteAgent: "deleteAgent",
   GetLabelKeys: "getLabelKeys",
   GetLabelValues: "getLabelValues",
+    GetAgentTemplates: "getAgentTemplates",
+    GetAgentTemplateById: "getAgentTemplateById",
 
   // Schedule Trigger Routes
   GetScheduleTriggers: "getScheduleTriggers",
